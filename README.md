@@ -293,7 +293,7 @@ skincare-product-review-analysis/
 │   └── TheDermaCo_TFIDF_Sentiment_Keywords.csv
 │
 └── reports/
-    └── Week3_Report.pdf
+    └── Week3_Skincare_Data_Sourcing_and_Initial_Analysis_Report_Gnaneswar.docx
 ```
 
 Do not commit virtual environments, Hugging Face model caches, downloaded model weights, temporary files, credentials, or raw review data that you are not permitted to redistribute.
