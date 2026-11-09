@@ -1,0 +1,24 @@
+# Core data analysis
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning and NLP
+scikit-learn
+transformers
+sentencepiece
+protobuf
+torch
+
+# Jupyter
+jupyterlab
+ipykernel
+
+# Web scraping (used by the review collection script)
+playwright
+beautifulsoup4
+requests
+
+# Optional: useful for reproducible Hugging Face downloads
+huggingface-hub

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments and Conda
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Secrets and local environment variables
+.env
+.env.*
+!.env.example
+
+# Hugging Face / ML model caches and downloaded weights
+.cache/
+.cache/huggingface/
+huggingface_cache/
+models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Large/local datasets: do not publish customer review data without
+# checking permission and removing personal information first.
+data/raw/*.csv
+data/processed/*.csv
+outputs/*.csv
+
+# Keep small, intentionally sanitized examples if you add them:
+!data/sample/
+!data/sample/*.csv
