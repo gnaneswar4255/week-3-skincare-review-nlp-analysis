@@ -1,0 +1,15 @@
+measure,count
+Raw row count,10000
+Raw column count,10
+Raw missing cells,2
+Raw exact duplicate rows,13
+Cleaned master row count,9987
+Cleaned master column count,21
+Missing title after handling,0
+Empty cleaned review bodies,2
+Invalid or missing ratings,0
+Invalid timestamps,0
+Empty combined review text,1
+Review length outliers flagged,728
+NLP-ready rows,9986
+Valid-rating NLP rows,9986

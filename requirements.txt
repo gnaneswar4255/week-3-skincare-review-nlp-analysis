@@ -1,0 +1,10 @@
+# Week 3 – Amazon Beauty Reviews Data Cleaning Pipeline
+# Install with: pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+fsspec
+huggingface_hub
+jupyterlab
+ipykernel
